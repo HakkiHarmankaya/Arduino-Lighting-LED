@@ -4,6 +4,8 @@ Bu projede bir **Arduino** ve birkaç temel malzeme kullanarak **basit bir LED y
 
 
 
+
+
 🔧 Aşağıda **Tinkercad devre şeması** da bulunmaktadır.  
 🔗 [Tinkercad Tasarımına Göz At](https://www.tinkercad.com/things/eVBz5oGJsSb?sharecode=lgrIJsCMgdo4djGHXmaHKYqS_TVlHDyzxlzxmuXZn40)
 
