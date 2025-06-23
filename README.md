@@ -3,7 +3,7 @@
 Bu projede bir **Arduino** ve birkaç temel malzeme kullanarak **basit bir LED yakma devresi** kurmayı öğreneceksiniz.
 
 
-
+🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)
 
 
 🔧 Aşağıda **Tinkercad devre şeması** da bulunmaktadır.  
